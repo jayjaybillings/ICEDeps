@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Dependencies
 Bundle-SymbolicName: org.eclipse.ice.dependencies
-Bundle-Version: 2.1.7.20150824
+Bundle-Version: 2.1.7.20150825
 Bundle-RequiredExecutionEnvironment: JavaSE-1.7
 Bundle-ClassPath: .,
  deps/snakeyaml/com.springsource.snakeyaml-1.6.0.jar,
