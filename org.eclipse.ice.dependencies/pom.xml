@@ -6,10 +6,10 @@
 	<parent>
 		<artifactId>org.eclipse.ice.build</artifactId>
 		<version>2.1.8.20160208</version>
-		<relativePath>../..//ice/org.eclipse.ice.parent/pom.xml</relativePath>
-		<groupId>org.eclipse.ice</groupId>
+		<relativePath>../${pom-filename}</relativePath>
+		<groupId>ICE</groupId>
 	</parent>
 	<artifactId>org.eclipse.ice.dependencies</artifactId>
 	<packaging>eclipse-plugin</packaging>
-	<groupId>org.eclipse.ice</groupId>
+	<groupId>ICE</groupId>
 </project>
